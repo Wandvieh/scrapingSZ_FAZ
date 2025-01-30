@@ -1,7 +1,7 @@
 # scrapingSZ_FAZ
 Eine GUI zum Scrapen der SZ und FAZ und berechnen der Worthäufigkeiten. Das Skript wurde 2023 als Hausarbeit erstellt und ist auf den damaligen Aufbau der Seite angepasst. In der Zwischenzeit wurden die Websites der beiden Zeitungen überarbeitet, wodurch der Download nicht mehr funktioniert. Die GUI, die mit tkinter erstellt wurde, funktioniert weiterhin.
 
-Mittels dem Interface habe ich alle Artikel zwischen dem 24.02. (Angriff Russlands auf die Ukraine) und März 2023 der SZ und der FAZ heruntergeladen
+Mittels dem Interface habe ich alle Artikel zwischen dem 24.02. (Angriff Russlands auf die Ukraine) und März 2023 der SZ und der FAZ heruntergeladen. Dann habe ich die Worthäufigkeiten der 20 häufigsten Wörter in einer Term-Dokument-Matrix festgehalten und visualisiert.
 
 ## Erstellung der Daten im Interface
 
