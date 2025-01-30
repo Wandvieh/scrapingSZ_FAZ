@@ -3,6 +3,8 @@ Eine GUI zum Scrapen der SZ und FAZ und berechnen der Worthäufigkeiten. Das Skr
 
 Mittels dem Interface habe ich alle Artikel zwischen dem 24.02. (Angriff Russlands auf die Ukraine) und März 2023 der SZ und der FAZ heruntergeladen. Dann habe ich die Worthäufigkeiten der 20 häufigsten Wörter in einer Term-Dokument-Matrix festgehalten und visualisiert.
 
+Die hier nicht dargestellten svg-Dateien in images/ wurden mit anderen Daten zum Testen erstellt.
+
 ## Erstellung der Daten im Interface
 
 ![Datenerstellung im GUI](https://github.com/Wandvieh/scrapingSZ_FAZ/blob/main/images/GUI_Datenerstellung.jpg?raw=true)
@@ -12,16 +14,13 @@ Mittels dem Interface habe ich alle Artikel zwischen dem 24.02. (Angriff Russlan
 
 ## Ergebnisse
 
-![Linechart: Häufigkeiten der 20 meistgenutzten Wörter, nach Zeitung aufgeteilt](https://github.com/user-attachments/assets/7fa8effb-3272-41b2-8063-583a63265b6d)
+![Barchart: 20 häufigste Wörter nach Wörtern](https://github.com/user-attachments/assets/3fa20e69-c662-4a4c-9752-53d6326c4a51)
 
-Das Interesse sinkt über die Zeit, also sinkt auch die Zahl der Artikel und damit auch die Zahl der Wörter.
+![Barchart: 20 häufigste Wörter nach Zeitungen](https://github.com/user-attachments/assets/90a51bfa-254d-4071-8e77-a6b0b5ec9346)
 
-![Barchart: Häufigkeiten der 20 meistgenutzten Wörter, nach Wörtern aufgeteilt](https://github.com/user-attachments/assets/2e553d74-11c0-45ad-b30a-d3d5abfb5ff5)
 
-![Linechart: Häufigkeiten der 20 meistgenutzten Wörter, nach Zeitung aufgeteilt](https://github.com/user-attachments/assets/4babb44f-bc0a-4d82-bcdd-297db6aace7a)
+## Reflektion
 
-![Linechart: Häufigkeiten der 20 meistgenutzten Wörter, nach Zeitung aufgeteilt](https://github.com/user-attachments/assets/17c8f3fa-1062-40fc-985e-0ca8f0729c6a)
+Obwohl das Programm zum Erstellungszeitpunkt gut funktioniert hat, ist es mit einem neuen Design der Websiten hinfällig geworden. Der Aufwand, das Programm dauerhaft funtionieren zu lassen, ist höher, je öfter die Website umgestellt wird.
 
-![grafik](https://github.com/user-attachments/assets/0ed6a3f7-323f-440e-aefa-1e6cfeb12e77)
-
-![grafik](https://github.com/user-attachments/assets/b9711f2f-f9f7-4c4f-a09f-8194aaa3e30f)
+Die Charts sind nicht ordentlich benannt, so dass heute nicht mehr klar ist, welche Bedeutung die Y-Achse hat und ob die Skalierung der verschiedenen Bars dieselbe ist.
