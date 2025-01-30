@@ -5,9 +5,9 @@ Mittels dem Interface habe ich alle Artikel zwischen dem 24.02. (Angriff Russlan
 
 ## Erstellung der Daten im Interface
 
-[Datenerstellung im GUI](https://github.com/Wandvieh/scrapingSZ_FAZ/blob/main/images/GUI_Datenerstellung.jpg?raw=true)
+![Datenerstellung im GUI](https://github.com/Wandvieh/scrapingSZ_FAZ/blob/main/images/GUI_Datenerstellung.jpg?raw=true)
 
-[Datenanalyse im GUI](https://github.com/Wandvieh/scrapingSZ_FAZ/blob/main/images/GUI_Datenanalyse.jpg?raw=true)
+![Datenanalyse im GUI](https://github.com/Wandvieh/scrapingSZ_FAZ/blob/main/images/GUI_Datenanalyse.jpg?raw=true)
 
 
 ## Ergebnisse
