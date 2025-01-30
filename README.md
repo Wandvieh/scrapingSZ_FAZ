@@ -1,2 +1,2 @@
 # scrapingSZ_FAZ
-a GUI for scraping the SZ and FAZ (german newspapers) and evaluating word frequencies
+Eine GUI zum Scrapen der SZ und FAZ und berechnen der Worthäufigkeiten 
