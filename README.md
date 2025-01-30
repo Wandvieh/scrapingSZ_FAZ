@@ -21,3 +21,7 @@ Das Interesse sinkt über die Zeit, also sinkt auch die Zahl der Artikel und dam
 ![Linechart: Häufigkeiten der 20 meistgenutzten Wörter, nach Zeitung aufgeteilt](https://github.com/user-attachments/assets/4babb44f-bc0a-4d82-bcdd-297db6aace7a)
 
 ![Linechart: Häufigkeiten der 20 meistgenutzten Wörter, nach Zeitung aufgeteilt](https://github.com/user-attachments/assets/17c8f3fa-1062-40fc-985e-0ca8f0729c6a)
+
+![grafik](https://github.com/user-attachments/assets/0ed6a3f7-323f-440e-aefa-1e6cfeb12e77)
+
+![grafik](https://github.com/user-attachments/assets/b9711f2f-f9f7-4c4f-a09f-8194aaa3e30f)
